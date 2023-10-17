@@ -8,4 +8,5 @@ print('Hello World')
 ##My Socials:
 [GitHub Profile](https://github.com/amolvyas-6)
 
->[!Note] this is a sample README.md
+>[!Note]
+> this is a sample README.md
